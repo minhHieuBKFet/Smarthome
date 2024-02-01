@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"i2s.h": "c",
+			"esp_audio_enc_def.h": "c",
+			"esp_g711_enc.h": "c"
+		}
+	}
+}
